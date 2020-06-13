@@ -68,8 +68,9 @@ header #branding h1{
 }
 
 header nav{
-  float:right;
+  font-size:20px;
   margin-top:10px;
+  text-align:center;
 }
 
 header .highlight, header .current a{
